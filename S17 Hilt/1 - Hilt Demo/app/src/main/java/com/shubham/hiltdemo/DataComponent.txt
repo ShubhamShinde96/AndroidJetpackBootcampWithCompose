@@ -1,0 +1,23 @@
+package com.shubham.hiltdemo
+
+/*
+import dagger.Component
+
+@Component(modules = [DataSourceModule::class])
+interface DataComponent {
+
+    fun inject(mainActivity: MainActivity)
+
+    // With hilt we don't need to explicitly create a component interface. Hilt library has 7 different component interfaces packed for us.
+
+    // Application component, ActivityRetainedComponent, ActivityComponent, FragmentComponent
+    // ViewComponent, ViewWithFragmentComponent
+
+    // Note: ApplicationComponent has been replaced with SingletonComponent since the version 2.31
+    // So use SingletonComponent instead of ApplicationComponent
+
+    // We can use them considering the scope of the dependencies.
+    // Let's delete this component interface.
+*/
+
+}

@@ -1,0 +1,9 @@
+Latest version of retrofit supports coroutines that's why now we can avoid callbacks
+
+There are 3 steps of using Retrofit
+
+1] Convert JSON data into kotlin data classes
+
+2] Create service interface to define functions with url end points
+
+3] Create retrofit instance class

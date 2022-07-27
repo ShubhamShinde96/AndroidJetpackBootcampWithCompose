@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newsFragment"
+        android:icon="@drawable/ic_baseline_live_tv_24"
+        android:title="News Headlines" />
+
+<!--    here we need to give same id as the id of fragment on navgraph as we're using this for bottom nav-->
+<!--    So we are expecting to link this menu to the fragment of navigation  graph-->
+
+    <item android:id="@+id/savedNewsFragment"
+        android:title="Item"
+        android:icon="@drawable/ic_baseline_save_24"/>
+
+</menu>

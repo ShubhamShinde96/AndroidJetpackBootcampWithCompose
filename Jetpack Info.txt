@@ -1,0 +1,8 @@
+Android KTX is a set of kotlin extension that are included with android jetpack
+to provide even more consice ideomatic kotlin to jetpack and android platform APIs
+
+
+Jetpack includes:
+
+Navigation architecture components
+Work Manager

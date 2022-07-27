@@ -1,0 +1,32 @@
+Configuration changes examples:
+
+Screen Rotation
+Keyboard Changes
+Language Changes
+Enabling Multiwindow Mode
+
+------------------------------------------------------------------------------
+
+Android jetpack: Navigation Architecture components:
+
+Navigation Graph
+Navigation Host Fragment
+Destinations
+Actions
+Transforming data 
+Animations
+Work Manager
+
+------------------------------------------------------------------------------
+
+All the painful multithreading tasks done with RxJava, AsyncTask, Executers
+HandlerThreads & IntentServices can be easily & efficiently done with
+"Coroutines".
+
+Coroutines API allows us to write asynchronous codes in a sequencial manner.
+It avoids unnecessary boilerplate codes comes with "callbacks" & Makes our code
+more readable and maintainable.
+
+Coroutines are just seperate processes that are running on the thread.
+
+------------------------------------------------------------------------------
